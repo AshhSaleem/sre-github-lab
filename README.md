@@ -144,3 +144,7 @@ The contribution process includes:
 8. Open a Pull Request for review before merging changes into the main branch.
 
 All changes should be reviewed to maintain accurate, clear, and consistent project requirements.
+
+
+
+end of the document 
